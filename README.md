@@ -6,10 +6,21 @@ Check me out on:
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://github.com/Vivekbagdania">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.simpleicons.org/github/white"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.simpleicons.org/github/181717"
+    />
+    <img
+      alt="GitHub Profile"
+      src="https://cdn.simpleicons.org/github/181717"
+      width="30"
+    />
   </picture>
 </a>
